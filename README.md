@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirajul Islam Anik</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3<U>align="center">A passionate developer from Bangladesh</U></h3>
 
 - 🔭 I’m currently working on **Mini project**
 
