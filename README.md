@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a Student
 ---
 
 ### 🚀 Projects:
-- [Project 1](https://github.com/username/project1): Short description
-- [Project 2](https://github.com/username/project2): Short description
+- [Project 1](https://github.com/Mirajul100/project1): Short description
+- [Project 2](https://github.com/Mirajul100/project2): Short description
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a Student
 
 ### 📊 GitHub Stats:
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mirajul Islam Anik GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
