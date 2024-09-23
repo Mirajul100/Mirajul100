@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a Student
 
 ### 📊 GitHub Stats:
 
-![Mirajul Islam Anik GitHub stats](https://github-readme-stats.vercel.app/api?MirajulIslamAnik=MrajulIslamAnik&show_icons=true&theme=radical)
+![Mirajul Islam Anik GitHub stats](https://github-readme-stats.vercel.app/api?Mirajul100=Mrajul100&show_icons=true&theme=radical)
 
 ---
 
