@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Student
 
 ---
 - 🔭 I’m currently working on java project
-- 🌱 I’m currently learning Codin
+- 🌱 I’m currently learning Coding
 - 📫 How to reach me: mirajulislamanik100@gmail.com
 - ⚡ Fun fact: Bad Boy
 
